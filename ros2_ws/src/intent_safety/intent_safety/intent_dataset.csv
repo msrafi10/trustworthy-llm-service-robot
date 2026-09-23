@@ -1,0 +1,152 @@
+text,label
+move forward,move
+go forward,move
+move ahead,move
+go ahead,move
+proceed forward,move
+advance,move
+move straight,move
+drive forward,move
+start moving,move
+go straight,move
+move backward,move
+go back,move
+reverse,move
+move back slowly,move
+step back,move
+turn left,move
+rotate left,move
+turn right,move
+rotate right,move
+navigate forward,move
+start navigation,move
+continue moving,move
+resume movement,move
+move to kitchen,move
+go to living room,move
+
+stop,stop
+stop now,stop
+emergency stop,stop
+halt immediately,stop
+stop right now,stop
+freeze,stop
+abort movement,stop
+terminate action,stop
+cease operation,stop
+power down motion,stop
+shut down movement,stop
+cancel navigation,stop
+stop robot,stop
+stop everything,stop
+immediate halt,stop
+break action,stop
+pause robot,stop
+pause movement,stop
+kill motion,stop
+shutdown motors,stop
+
+pick the box,pick_object
+pick up the box,pick_object
+grab the object,pick_object
+lift the package,pick_object
+collect the item,pick_object
+take the cup,pick_object
+hold the bottle,pick_object
+grasp the tool,pick_object
+pick the object from table,pick_object
+lift object,pick_object
+grab item,pick_object
+collect box,pick_object
+pick up item,pick_object
+fetch the object,pick_object
+take the package,pick_object
+grasp object,pick_object
+lift the object carefully,pick_object
+pick it up,pick_object
+grab it,pick_object
+take it,pick_object
+
+place the box,place_object
+put it down,place_object
+place object on table,place_object
+drop the package,place_object
+set it down,place_object
+leave the object,place_object
+put the cup on table,place_object
+place item carefully,place_object
+release the object,place_object
+drop item,place_object
+set down the box,place_object
+place package here,place_object
+put it here,place_object
+leave it here,place_object
+drop it gently,place_object
+place the tool,place_object
+release item,place_object
+put the bottle down,place_object
+place object safely,place_object
+set object down,place_object
+
+human is near,human_warning
+person in front,human_warning
+someone ahead,human_warning
+human detected,human_warning
+person detected,human_warning
+worker nearby,human_warning
+operator near robot,human_warning
+child in front,human_warning
+human crossing,human_warning
+person approaching,human_warning
+someone close,human_warning
+human in path,human_warning
+man near robot,human_warning
+woman in front,human_warning
+pedestrian ahead,human_warning
+obstacle is human,human_warning
+human blocking path,human_warning
+person too close,human_warning
+someone near arm,human_warning
+human inside zone,human_warning
+
+increase speed dangerously,unsafe_command
+go faster ignore safety,unsafe_command
+ignore obstacles,unsafe_command
+move without sensors,unsafe_command
+disable safety system,unsafe_command
+bypass safety,unsafe_command
+override emergency stop,unsafe_command
+go maximum speed,unsafe_command
+run fast no limit,unsafe_command
+move blindly,unsafe_command
+ignore human detection,unsafe_command
+turn off sensors,unsafe_command
+disable collision detection,unsafe_command
+ignore warnings,unsafe_command
+force movement,unsafe_command
+continue despite danger,unsafe_command
+move through people,unsafe_command
+ignore proximity alert,unsafe_command
+cancel safety check,unsafe_command
+operate without limits,unsafe_command
+
+random text,unknown
+hello robot,unknown
+how are you,unknown
+tell me a joke,unknown
+what is your name,unknown
+sing a song,unknown
+weather today,unknown
+good morning,unknown
+nice job,unknown
+system status,unknown
+battery level,unknown
+temperature report,unknown
+what time is it,unknown
+who built you,unknown
+open youtube,unknown
+play music,unknown
+calculate something,unknown
+what is AI,unknown
+define robot,unknown
+random words here,unknown

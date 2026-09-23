@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<robot name="mobile_manipulator" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+  <!-- Official TurtleBot3 + OpenManipulator Integration -->
+  <xacro:include filename="$(find mobile_manipulator_description)/urdf/turtlebot3_manipulation.urdf.xacro"/>
+
+</robot>

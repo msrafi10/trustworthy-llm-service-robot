@@ -1,0 +1,50 @@
+# ROS 2
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+ros_ml_venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Gazebo / generated files
+*.bag
+*.db3
+
+# ML generated files
+runs/
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Datasets / archives
+*.zip
+*.tar
+*.tar.gz
+
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+*.der
+*.crt
+.guard_keys/
+
+# OS
+.DS_Store
+Thumbs.db

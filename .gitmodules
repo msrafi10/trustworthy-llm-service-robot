@@ -1,0 +1,3 @@
+[submodule "simulation/external/IFRA_LinkAttacher"]
+	path = simulation/external/IFRA_LinkAttacher
+	url = https://github.com/IFRA-Cranfield/IFRA_LinkAttacher.git
