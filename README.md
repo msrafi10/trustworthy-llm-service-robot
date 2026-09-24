@@ -234,6 +234,64 @@ Task Completed
 
 If the requested object cannot be found, the controller can transition to a safe idle/not-found behavior rather than blindly executing the manipulation sequence.
 
+## Demonstration
+
+The following screenshots show the implemented ROS 2/Gazebo service-robot system, including the simulation environment, authorized robot execution, navigation, and pick-and-place manipulation.
+
+### Simulation Environment
+
+<p align="center">
+  <img src="assets/simulation_01.png" alt="Service robot simulation environment 1" width="850">
+</p>
+
+<p align="center">
+  <img src="assets/simulation_02.png" alt="Service robot simulation environment 2" width="850">
+</p>
+
+<p align="center">
+  <img src="assets/simulation_03.png" alt="Service robot simulation environment 3" width="850">
+</p>
+
+*Gazebo simulation environments used for the mobile-manipulator experiments.*
+
+### Authorized Robot Execution
+
+<p align="center">
+  <img src="assets/authorized_execution_01.png" alt="Authorized robot execution stage 1" width="850">
+</p>
+
+<p align="center">
+  <img src="assets/authorized_execution_02.png" alt="Authorized robot execution stage 2" width="850">
+</p>
+
+<p align="center">
+  <img src="assets/authorized_execution_03.png" alt="Authorized robot execution stage 3" width="850">
+</p>
+
+<p align="center">
+  <img src="assets/authorized_execution_04.png" alt="Authorized robot execution stage 4" width="850">
+</p>
+
+*Authorized robot execution demonstrating navigation, object approach, perception, and task execution in the simulated environment.*
+
+### Pick-and-Place Manipulation
+
+<p align="center">
+  <img src="assets/pick_place_01.png" alt="Pick and place manipulation stage 1" width="850">
+</p>
+
+<p align="center">
+  <img src="assets/pick_place_02.png" alt="Pick and place manipulation stage 2" width="850">
+</p>
+
+*Pick-and-place manipulation performed using the simulated mobile manipulator.*
+
+### Full System Demonstration
+
+A complete implementation video is available separately and demonstrates robot navigation, obstacle/collision handling, object detection, and pick-and-place task execution.
+
+> **Demo video:** [Watch the full system demonstration](YOUR_VIDEO_LINK_HERE)
+
 ## ROS 2 Packages
 
 The repository contains the following main ROS 2 packages:
