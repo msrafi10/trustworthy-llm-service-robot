@@ -290,7 +290,7 @@ The following screenshots show the implemented ROS 2/Gazebo service-robot system
 
 A complete implementation video is available separately and demonstrates robot navigation, obstacle/collision handling, object detection, and pick-and-place task execution.
 
-> **Demo video:** [Watch the full system demonstration](YOUR_VIDEO_LINK_HERE)
+> **Demo video:** [Watch the full system demonstration](https://lnkd.in/p/eNTiZKgY)
 
 ## ROS 2 Packages
 
